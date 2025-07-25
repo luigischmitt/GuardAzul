@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-07-24T20:41:48.009206",
+  "date": "2025-07-24",
+  "day_of_week": "Thursday",
+  "location": "João Pessoa, PB",
+  "nascer_sol": "5:31:24",
+  "por_sol": "17:20:16",
+  "nascer_lua": "5:19",
+  "por_lua": "17:19",
+  "fase_lua": "Nova",
+  "mares": [
+    "15:54, 2.4m, 86",
+    "22:03, 0.4m, 86",
+    "3:24, 2.3m, 84",
+    "9:37, 0.3m, 84"
+  ],
+  "ondas_max": "1.6m",
+  "ondas_min": "1.0m",
+  "atividade_peixes": "Muito Alta"
+}

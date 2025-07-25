@@ -1,0 +1,107 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment variables
+.env
+.env.local
+.env.production.local
+.env.development.local
+.env*.local
+
+# Virtual environments
+venv/
+.venv/
+
+# Credentials
+credentials/
+*.key
+*.pem
+*-key.json
+*-credentials.json
+service-account*.json
+
+# Uploads and temporary files
+uploads/
+temp/
+tmp/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+*.pem
+
+# Node modules
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Native
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# Debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# TypeScript
+*.tsbuildinfo
+
+# Backend specific
+backend/__pycache__/
+backend/.env
+backend/.env.local
+backend/credentials/
+backend/uploads/
+
+# Frontend specific  
+frontend/GuardAzul/.expo/
+frontend/GuardAzul/dist/
+
+# Example/test apps
+app-example

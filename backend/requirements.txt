@@ -1,0 +1,15 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+Pillow==10.1.0
+python-decouple==3.8
+pydantic==2.5.0
+requests==2.31.0
+google-cloud-vision==3.4.4
+python-dotenv
+google-generativeai
+
+# 🐘 PostgreSQL + SQLAlchemy
+sqlalchemy==2.0.23
+psycopg2-binary==2.9.9
+python-dotenv==1.0.0

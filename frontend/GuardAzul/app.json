@@ -1,0 +1,67 @@
+{
+  "expo": {
+    "name": "GuardAzul",
+    "slug": "GuardAzul",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "guardazul",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSCameraUsageDescription": "Este app precisa de acesso à câmera para fotografar denúncias de poluição marinha.",
+        "NSPhotoLibraryUsageDescription": "Este app precisa de acesso à galeria para selecionar fotos de denúncias.",
+        "NSLocationWhenInUseUsageDescription": "Este app precisa de acesso à localização para registrar onde ocorreu a poluição denunciada."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_COARSE_LOCATION"
+      ]
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/splash-icon.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff"
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "O app precisa de acesso às fotos para documentar denúncias de poluição marinha.",
+          "cameraPermission": "O app precisa de acesso à câmera para fotografar denúncias de poluição marinha."
+        }
+      ],
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "O app precisa de acesso à localização para registrar onde ocorreu a poluição denunciada."
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+# 🐳 Docker Compose - Guarda Azul (Apenas Infraestrutura)
+version: '3.8'
+
+services:
+  # 🐘 PostgreSQL Database
+  postgres:
+    image: postgres:15-alpine
+    container_name: guardazul-postgres
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_DB=guarda-azul-db
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=sua_senha_aqui
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+# 💾 Volumes persistentes
+volumes:
+  postgres-data:
+    name: guardazul-postgres-data
+    driver: local 
