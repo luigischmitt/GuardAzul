@@ -170,8 +170,7 @@ pythonautas/
 - [ ] 🔐 Autenticação JWT
 - [ ] 📊 Dashboard administrativo  
 - [ ] 🗺️ Mapa interativo das denúncias
-- [ ] 🖼️ IA para análise de imagens
-- [ ] 📱 App para iOS/Android
+- [ ] 📱 App nativo para iOS/Android
 
 
 ---
