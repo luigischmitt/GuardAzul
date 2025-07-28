@@ -40,8 +40,8 @@ Converse com **Nereu**, nosso chatbot especialista em ecossistema costeiro da Pa
 
 ### **1. Clone e Descubra seu IP**
 ```bash
-git clone https://github.com/pythonautas/guarda-azul.git
-cd pythonautas
+https://github.com/luigischmitt/GuardAzul.git
+cd GuardAzul
 ```
 
 **🔍 Descubra seu IP local:**
@@ -63,7 +63,7 @@ Endereço IPv4: SEU_IP_LOCAL_AQUI  ← Este é seu IP!
 ### **2. Configure Variáveis**
 Crie `.env` na raiz:
 ```bash
-# pythonautas/.env
+# GuardAzul/.env
 GEMINI_API_KEY=sua_chave_do_gemini_aqui
 ```
 
@@ -127,7 +127,7 @@ No console do Expo deve aparecer:
 ## 🏗️ Estrutura do Projeto
 
 ```
-pythonautas/
+GuardAzul/
 ├── 📱 frontend/GuardAzul/          # App React Native
 │   ├── app/(tabs)/                 # Telas (Home, Chat, Denúncias)
 │   └── constants/Config.ts        # Configuração da API
