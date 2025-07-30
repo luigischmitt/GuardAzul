@@ -176,3 +176,8 @@ GuardAzul/
 ---
 
 ### 🌊 *"Cada denúncia é uma onda de proteção aos ecossistemas marinhos"*
+
+---
+
+## 🤝 Contribuições
+Contribuições são muito bem-vindas! Sinta-se à vontade para abrir um Pull Request ou entrar em contato caso tenha interesse em colaborar ou desenvolver algo novo.
