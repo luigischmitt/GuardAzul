@@ -177,7 +177,20 @@ GuardAzul/
 
 ### 🌊 *"Cada denúncia é uma onda de proteção aos ecossistemas marinhos"*
 
+
+/frontend/GuardAzul/assets/images
+
 ---
 
 ## 🤝 Contribuições
 Contribuições são muito bem-vindas! Sinta-se à vontade para abrir um Pull Request ou entrar em contato caso tenha interesse em colaborar ou desenvolver algo novo.
+
+---
+
+<img src="/frontend/GuardAzul/assets/images/Login.png" alt="Home Page" width="400"/>
+
+<img src="/frontend/GuardAzul/assets/images/Waves.png" alt="Home Page" width="400"/>
+
+<img src="/frontend/GuardAzul/assets/images/Denuncia.png" alt="Home Page" width="400"/>
+
+<img src="/frontend/GuardAzul/assets/images/Nereu.png" alt="Home Page" width="400"/>
