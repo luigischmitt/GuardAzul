@@ -187,10 +187,31 @@ Contribuições são muito bem-vindas! Sinta-se à vontade para abrir um Pull Re
 
 ---
 
-<img src="/frontend/GuardAzul/assets/images/Login.png" alt="Home Page" width="400"/>
+## 📱 Telas do App
 
-<img src="/frontend/GuardAzul/assets/images/Waves.png" alt="Home Page" width="400"/>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/luigischmitt/GuardAzul/main/frontend/GuardAzul/assets/images/Login.png" alt="Tela de Login" width="200"/>
+      <br>
+      <strong>Tela de Login</strong>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/luigischmitt/GuardAzul/main/frontend/GuardAzul/assets/images/Waves.png" alt="Tela Principal com informações das ondas" width="200"/>
+      <br>
+      <strong>Tela Principal</strong>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/luigischmitt/GuardAzul/main/frontend/GuardAzul/assets/images/Denuncia.png" alt="Tela para fazer denúncias com geolocalização" width="200"/>
+      <br>
+      <strong>Tela de Denúncia</strong>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/luigischmitt/GuardAzul/main/frontend/GuardAzul/assets/images/Nereu.png" alt="Chat com o assistente IA Nereu" width="200"/>
+      <br>
+      <strong>Chat com Nereu (IA)</strong>
+    </td>
+  </tr>
+</table>
 
-<img src="/frontend/GuardAzul/assets/images/Denuncia.png" alt="Home Page" width="400"/>
-
-<img src="/frontend/GuardAzul/assets/images/Nereu.png" alt="Home Page" width="400"/>
+---
