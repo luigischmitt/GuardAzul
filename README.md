@@ -209,7 +209,7 @@ Contribuições são muito bem-vindas! Sinta-se à vontade para abrir um Pull Re
     <td align="center">
       <img src="https://raw.githubusercontent.com/luigischmitt/GuardAzul/main/frontend/GuardAzul/assets/images/Nereu.png" alt="Chat com o assistente IA Nereu" width="200"/>
       <br>
-      <strong>Chat com Nereu (IA)</strong>
+      <strong>Chatbot Nereu</strong>
     </td>
   </tr>
 </table>
