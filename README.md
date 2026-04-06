@@ -1,4 +1,4 @@
-# 🌊 Guarda Azul
+# Guarda Azul
 
 > **Plataforma digital para proteção dos ecossistemas marinhos da Paraíba**
 
@@ -8,23 +8,23 @@ Sistema completo com **chat inteligente**, **denúncias colaborativas** e **educ
 
 ---
 
-## 🤖 Nereu - Assistente Marinho IA
+## Nereu - Assistente Marinho IA
 
 Converse com **Nereu**, nosso chatbot especialista em ecossistema costeiro da Paraíba:
 
-- 🌊 **Informações sobre marés, pesca e condições do mar**
-- 🐠 **Conhecimento sobre vida marinha e conservação**  
-- 💬 **Conversas com histórico persistente**
-- 🎯 **Orientações sobre denúncias ambientais**
+- **Informações sobre marés, pesca e condições do mar**
+- **Conhecimento sobre vida marinha e conservação**  
+- **Conversas com histórico persistente**
+- **Orientações sobre denúncias ambientais**
 
-## 📱 Principais Funcionalidades
+## Principais Funcionalidades
 
-### **💬 Chat Inteligente**
-- 🤖 **Nereu**: Assistente especialista com IA Google Gemini
-- 📚 Informações sobre ecossistema costeiro da Paraíba
-- 💾 **Histórico persistente** de conversas
+### **Chat Inteligente**
+- **Nereu**: Assistente especialista com IA Google Gemini
+- Informações sobre ecossistema costeiro da Paraíba
+- **Histórico persistente** de conversas
 
-### **🆘 Sistema de Denúncias**
+### **Sistema de Denúncias**
 - 📸 **Captura de fotos** da poluição
 - 📍 **Geolocalização automática**  
 - 📝 **Categorização** de problemas ambientais
